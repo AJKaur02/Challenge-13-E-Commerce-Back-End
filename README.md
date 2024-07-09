@@ -1,6 +1,3 @@
-Sure! Here is a comprehensive `README.md` file template for your e-commerce back end project:
-
-```markdown
 # E-Commerce Back End
 
 ## Description
@@ -137,4 +134,3 @@ This video demonstrates:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
