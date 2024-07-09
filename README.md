@@ -119,18 +119,6 @@ Once the server is running, you can interact with the API using tools like Insom
 - **Product** belongs to **Category**, and **Category** has many **Product** models.
 - **Product** belongs to many **Tag** models, and **Tag** belongs to many **Product** models through the **ProductTag** model.
 
-## Walkthrough Video
-
-[Walkthrough Video](https://link-to-your-walkthrough-video.com)
-
-This video demonstrates:
-- How to create the schema from the PostgreSQL shell.
-- How to seed the database from the command line.
-- How to start the application’s server.
-- GET routes for all categories, all products, and all tags being tested in Insomnia.
-- GET routes for a single category, a single product, and a single tag being tested in Insomnia.
-- POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
